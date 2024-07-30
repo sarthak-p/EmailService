@@ -25,3 +25,4 @@
 /Users/sarthak-p/Desktop/Email Service/EmailConsoleApp/obj/Debug/net8.0/EmailConsoleApp.genruntimeconfig.cache
 /Users/sarthak-p/Desktop/Email Service/EmailConsoleApp/obj/Debug/net8.0/ref/EmailConsoleApp.dll
 /Users/sarthak-p/Desktop/Email Service/EmailConsoleApp/bin/Debug/net8.0/appsettings.json
+/Users/sarthak-p/Desktop/Email Service/EmailConsoleApp/obj/Debug/net8.0/EmailConsoleApp.sourcelink.json
