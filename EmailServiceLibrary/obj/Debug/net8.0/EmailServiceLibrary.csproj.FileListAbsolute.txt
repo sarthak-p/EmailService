@@ -10,3 +10,4 @@
 /Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/refint/EmailServiceLibrary.dll
 /Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.pdb
 /Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/ref/EmailServiceLibrary.dll
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.sourcelink.json

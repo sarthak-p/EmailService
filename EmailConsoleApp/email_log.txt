@@ -1,6 +1,1 @@
-7/30/2024 9:25:09 AM: From=pusarthak@gmail.com, To=psanthichaparala2@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
-7/30/2024 9:27:01 AM: From=pusarthak@gmail.com, To=santhichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
-7/30/2024 9:27:12 AM: From=pusarthak@gmail.com, To=santhichaparala2@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
-7/30/2024 9:27:44 AM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
-7/30/2024 11:05:44 AM: From=pusarthak@gmail.com, To=santhichaparala2@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
-7/30/2024 12:39:49 PM: From=pusarthak@gmail.com, To=santhichaparala2@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
+7/30/2024 12:55:10 PM: From=pusarthak@gmail.com, To=kjnsjkcn, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Failed
