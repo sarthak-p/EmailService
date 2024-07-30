@@ -1,0 +1,29 @@
+@model dynamic
+@{
+    ViewData["Title"] = "Send Email";
+}
+
+<h1>Send Email</h1>
+
+<form asp-action="SendEmail" method="post">
+    <div class="form-group">
+        <label for="to">To</label>
+        <input type="email" class="form-control" id="to" name="to" required>
+    </div>
+    <div class="form-group">
+        <label for="subject">Subject</label>
+        <input type="text" class="form-control" id="subject" name="subject" required>
+    </div>
+    <div class="form-group">
+        <label for="body">Body</label>
+        <textarea class="form-control" id="body" name="body" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info">
+    @ViewBag.Message
+</div>
+}
