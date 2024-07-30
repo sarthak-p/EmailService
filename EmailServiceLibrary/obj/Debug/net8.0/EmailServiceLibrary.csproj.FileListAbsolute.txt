@@ -1,0 +1,12 @@
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/bin/Debug/net8.0/EmailServiceLibrary.deps.json
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/bin/Debug/net8.0/EmailServiceLibrary.dll
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/bin/Debug/net8.0/EmailServiceLibrary.pdb
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.csproj.AssemblyReference.cache
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.AssemblyInfoInputs.cache
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.AssemblyInfo.cs
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.csproj.CoreCompileInputs.cache
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.dll
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/refint/EmailServiceLibrary.dll
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/EmailServiceLibrary.pdb
+/Users/sarthak-p/Desktop/Email Service/EmailServiceLibrary/obj/Debug/net8.0/ref/EmailServiceLibrary.dll
