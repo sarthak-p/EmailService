@@ -22,7 +22,7 @@ git clone https://github.com/sarthak-p/EmailService
 cd EmailService
 ```
 
-### Running on Console
+## Running on Console
 
 1) Navigate to the console: 
 
@@ -39,7 +39,7 @@ dotnet run
 
 3) Enter "to" email and receive success or failure status. 
 
-### Testing the API with Postman
+## Testing the API with Postman
 
 1) Navigate to the API Project Directory:
 
@@ -65,9 +65,9 @@ The API will start running at http://localhost:5008.
 
     ```bash
     {
-    "To": "recipient@example.com",
-    "Subject": "Test Subject",
-    "Body": "This is a test email."
+        "To": "recipient@example.com",
+        "Subject": "Test Subject",
+        "Body": "This is a test email."
     }
     ```
 
@@ -75,7 +75,7 @@ The API will start running at http://localhost:5008.
 
     - Verify the 200 OK response to ensure the email was sent successfully.
 
-### Running the MVC Client Application
+## Running the MVC Client Application
 
 1) Navigate to the MVC Client Project Directory:
 
