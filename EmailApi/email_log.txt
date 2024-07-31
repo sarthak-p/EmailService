@@ -6,3 +6,19 @@
 7/30/2024 12:57:05 PM: From=pusarthak@gmail.com, To=pusarthak@gmail.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
 7/30/2024 1:05:33 PM: From=pusarthak@gmail.com, To=ejfknjk, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Failed
 7/30/2024 1:05:41 PM: From=pusarthak@gmail.com, To=ejfknjk@gkjgn.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Success
+7/30/2024 1:07:22 PM: From=pusarthak@gmail, To=ejfknjk@gkjgn.com, Subject=Test subject, Body=Hi, this is a test message from Sarthak, Status=Failed
+7/30/2024 1:14:23 PM: From=pusarthak@gmail, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Failed
+7/30/2024 1:14:24 PM: From=pusarthak@gmail, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Failed
+7/30/2024 1:14:40 PM: From=pusarthak@gmail, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Failed
+7/30/2024 1:14:41 PM: From=pusarthak@gmail, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Failed
+7/30/2024 1:15:16 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Success
+7/30/2024 3:29:18 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Test body, Status=Success
+7/30/2024 3:33:02 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Test body, Status=Success
+7/30/2024 3:33:21 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Test body, Status=Success
+7/30/2024 3:34:08 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Test body, Status=Success
+7/30/2024 3:47:54 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Success
+7/30/2024 3:48:05 PM: From=pusarthak@gmail.com, To=guygjh, Subject=Test subject, Body=Hi, this is a test message., Status=Failed
+7/30/2024 3:48:39 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Success
+7/30/2024 8:52:16 PM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=hello, Body=ijedecd, Status=Success
+7/30/2024 8:54:50 PM: From=pusarthak@gmail.com, To=patipatichaparala@jksndk.con, Subject=fv, Body=bsvzf, Status=Success
+7/30/2024 8:58:01 PM: From=pusarthak@gmail.com, To=santhichaparala2@gmail.com, Subject=Hello, Body=Hello this is a test body, Status=Success
