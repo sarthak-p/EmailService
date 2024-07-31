@@ -1,4 +1,4 @@
-# Email Sending Application
+# Email Service
 
 This is a C# application designed to send emails to customers without interrupting or delaying user navigation. The solution includes a reusable DLL for sending emails, a console application, an API for sending emails via Postman, and an ASP.NET Core MVC front-end application.
 
@@ -21,6 +21,7 @@ This is a C# application designed to send emails to customers without interrupti
 git clone https://github.com/sarthak-p/EmailService
 cd EmailService
 ```
+You can test this application in three ways: using the console application, via Postman, and through the MVC Client Application.
 
 ## Running on Console
 
@@ -63,13 +64,13 @@ The API will start running at http://localhost:5008.
         - URL: http://localhost:5008/api/email
         - Body: Raw JSON
 
-    ```bash
-    {
-        "To": "recipient@example.com",
-        "Subject": "Test Subject",
-        "Body": "This is a test email."
-    }
-    ```
+        ```bash
+            {
+                "To": "recipient@example.com",
+                "Subject": "Test Subject",
+                "Body": "This is a test email."
+            }
+        ```
 
     - Send the request.
 
@@ -95,10 +96,6 @@ dotnet run
 http://localhost:5007/email/sendemail
 ```
 
-- Make sure the API is running on http://localhost:5008 (From EmailApi)
+- Ensure the API is running on http://localhost:5008 (From EmailApi)
 
-4) Submit the Email Form
-
-    
-
-
+4) Enter the recipient email, subject, and body in the form and click "Send". Verify the email was sent successfully.

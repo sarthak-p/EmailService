@@ -28,7 +28,7 @@ namespace EmailMvcClient.Controllers
         [HttpPost]
         public async Task<IActionResult> SendEmail(string to, string subject, string body)
         {
-            // Validate the recipient email address
+
             if (!IsValidEmail(to))
             {
                 ViewBag.Message = "Invalid email address.";
