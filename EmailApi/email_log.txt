@@ -26,3 +26,8 @@
 7/31/2024 9:32:50 AM: From=pusarthak@gmail.com, To=santhichaparala, Subject=Test Subject, Body=Hi, This is a test email., Status=Failed
 7/31/2024 9:33:01 AM: From=pusarthak@gmail.com, To=santhichaparala2@gmail.com, Subject=Test Subject, Body=Hi, This is a test email., Status=Success
 7/31/2024 9:36:44 AM: From=pusarthak@gmail.com, To=santhichaparala2@gmail.com, Subject=hjdskl, Body=sodjfk, Status=Success
+7/31/2024 9:48:38 AM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test, Body=This is a test message, Status=Success
+7/31/2024 9:55:42 AM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test, Body=This is a test message, Status=Success
+7/31/2024 9:56:01 AM: From=pusarthak@gmail.com, To=patipatichaparala2@gmail.com, Subject=Test Subject, Body=Hi, this is a test email. , Status=Success
+7/31/2024 9:56:56 AM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test Subject, Body=Hi, this is a test email, Status=Success
+7/31/2024 9:57:30 AM: From=pusarthak@gmail.com, To=patipatichaparala@gmail.com, Subject=Test subject, Body=Hi, this is a test message., Status=Success

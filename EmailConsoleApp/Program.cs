@@ -21,7 +21,7 @@ class Program
         try
         {
             // Send an email asynchronously
-            await emailService.SendEmailAsync(recipient, "Test Subject", "Hi, This is a test email.");
+            await emailService.SendEmailAsync(recipient, "Test Subject", "Hi, this is a test email.");
             Console.WriteLine("Email sent successfully.");
         }
         catch (Exception ex)

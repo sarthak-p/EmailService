@@ -23,6 +23,8 @@ cd EmailService
 ```
 You can test this application in three ways: using the console application, via Postman, and through the MVC Client Application.
 
+The logs are stored indefinitely in email_log.txt. 
+
 ## Running on Console
 
 1) Navigate to the console: 
@@ -68,7 +70,7 @@ The API will start running at http://localhost:5008.
             {
                 "To": "recipient@example.com",
                 "Subject": "Test Subject",
-                "Body": "This is a test email."
+                "Body": "Hi, this is a test email."
             }
         ```
 

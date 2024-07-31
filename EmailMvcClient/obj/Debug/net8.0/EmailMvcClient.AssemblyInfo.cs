@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailMvcClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2f9fc3fe7affc03f7f66ba14191dd1fcfbcf952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe2ba034b0e767b723b056e8b27749c40e229e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailMvcClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailMvcClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
