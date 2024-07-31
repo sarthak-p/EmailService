@@ -11,26 +11,31 @@ namespace EmailMvcClient.Controllers
     {
         private readonly HttpClient _httpClient;
 
+        // Constructor to initialize HttpClient
         public EmailController()
         {
             _httpClient = new HttpClient();
         }
 
+        // GET method to render the SendEmail view
         [HttpGet]
         public IActionResult SendEmail()
         {
             return View();
         }
 
+        // POST method to handle form submission and send email
         [HttpPost]
         public async Task<IActionResult> SendEmail(string to, string subject, string body)
         {
+            // Validate the recipient email address
             if (!IsValidEmail(to))
             {
                 ViewBag.Message = "Invalid email address.";
                 return View();
             }
 
+            // Create an email request object
             var emailRequest = new
             {
                 To = to,
@@ -38,13 +43,16 @@ namespace EmailMvcClient.Controllers
                 Body = body
             };
 
+            // Serialize the email request object to JSON
             var content = new StringContent(JsonConvert.SerializeObject(emailRequest), Encoding.UTF8, "application/json");
 
             try
             {
+                // Send POST request to the API
                 var response = await _httpClient.PostAsync("http://localhost:5008/api/email", content);
                 var result = await response.Content.ReadAsStringAsync();
 
+    
                 if (response.IsSuccessStatusCode)
                 {
                     ViewBag.Message = "Email sent successfully.";
@@ -62,6 +70,7 @@ namespace EmailMvcClient.Controllers
             return View();
         }
 
+        // Method to validate email addresses using a regular expression
         private bool IsValidEmail(string email)
         {
             if (string.IsNullOrWhiteSpace(email))
@@ -69,9 +78,9 @@ namespace EmailMvcClient.Controllers
 
             try
             {
-                return System.Text.RegularExpressions.Regex.IsMatch(email,
+                return Regex.IsMatch(email,
                     @"^[^@\s]+@[^@\s]+\.[^@\s]+$",
-                    System.Text.RegularExpressions.RegexOptions.IgnoreCase, TimeSpan.FromMilliseconds(250));
+                    RegexOptions.IgnoreCase, TimeSpan.FromMilliseconds(250));
             }
             catch (RegexMatchTimeoutException)
             {
