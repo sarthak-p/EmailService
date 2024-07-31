@@ -70,7 +70,7 @@ namespace EmailMvcClient.Controllers
             return View();
         }
 
-        // Method to validate email addresses using a regular expression
+        // Method to validate email address format
         private bool IsValidEmail(string email)
         {
             if (string.IsNullOrWhiteSpace(email))
